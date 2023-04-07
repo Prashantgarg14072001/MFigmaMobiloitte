@@ -1,0 +1,62 @@
+/* Media or Press */
+#press{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.pic1{
+    background-image: url("Rectangle 400.png");
+}
+.pic2{
+    background-image: url("Rectangle 401.png");
+}
+.pic3{
+    background-image: url("Rectangle 402.png");
+}
+.flex-container7 {
+    display: flex;
+    width:100%;
+    justify-content: center;
+    flex-wrap:wrap;
+  }
+
+  .flex-container7 > div {
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    text-align: center;
+    font-size: 2vmin;
+  }
+  .innerdiv{
+    margin-top: 50%;
+    margin-left: 20%;
+    text-align: left;
+    width: 80%;
+    height:50%;
+    background: #FFF3F3;
+    padding: 10px;
+}
+.innerheading{
+    font-size: 1.8vmin;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+.innerdate{
+    font-family: 'Inter', sans-serif;
+    color: #616161;
+    font-size: 1.6vmin;
+}
+.innerpara{
+    font-family: 'Saira', sans-serif;
+    font-size: 1.6vmin;
+}
+
+.header6{
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 2.6rem;
+    color: #FFFFFF;
+
+}
+
+.para6{
+    font-size: 1.4vmin;
+}
